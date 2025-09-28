@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <title>Pequenas Surpresas Para Você 🌸</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <script src="https://cdn.tailwindcss.com"></script>
+  <style>
+    body {
+      transition: background-image 1s ease-in-out;
+    }
+  </style>
+</head>
+<body class="flex items-center justify-center h-screen bg-pink-100 bg-cover bg-center">
+  <div class="bg-white/90 backdrop-blur-sm rounded-xl shadow-xl p-8 max-w-md text-center mx-4">
+    <h1 class="text-3xl font-bold text-pink-600 mb-6">Pequenas Surpresas Para Você 🌸</h1>
+    <p id="meta-text" class="text-xl text-gray-800 mb-6 transition-opacity duration-500">Carregando...</p>
+    <div id="botoes-revisao" class="space-x-2 hidden">
+      <button id="rever-btn" class="bg-pink-600 text-white px-4 py-2 rounded hover:bg-pink-500">Rever frases do dia 💕</button>
+      <button id="proxima-btn" class="bg-pink-500 text-white px-4 py-2 rounded hover:bg-pink-400">Próxima frase ➡️</button>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
