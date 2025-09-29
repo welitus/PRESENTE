@@ -33,7 +33,7 @@ const fundos = [
 ];
 
 // Limite de frases por dia
-const limitePorDia = 5;
+const limitePorDia = 3;
 
 // Armazena as frases já mostradas no dia
 let frasesHoje = [];
