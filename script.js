@@ -1,6 +1,6 @@
 // Lista de metas / pensamentos ❤️
 const metas = [
-  "Certeza que já pensei em você hoje 💭❤️",
+ "Certeza que já pensei em você hoje 💭❤️",
   "Meu futuro é seu 🌟",
   "Quero te amar eternamente ♾️💘",
   "Nossos filhos serão inteligentes e bonitos 👶✨",
@@ -16,7 +16,19 @@ const metas = [
   "Você é a música que o Djavan não conseguiu compor 🎶💕",
   "Você é o amor da minha vida 💖",
   "Seremos velhinhos ativos e felizes 👵👴✨",
-  "Cada vez que te vejo te amo mais e mais 💓💓"
+  "Cada vez que te vejo te amo mais e mais 💓💓",
+  "Seus olhos são luz na minha vida ✨❤️",
+  "Brigaria com o mundo inteiro por você 🌎💘",
+  "Você é a minha casa na rocha 🏠💖",
+  "Apostei todas as minhas fichas em você 🎲❤️",
+  "Ansioso pra jogar o jogo da vida com você 🎮💞",
+  "Com você o jogo sempre fica no modo fácil 🎮💕",
+  "Te ver durante o dia é meu checkpoint 🎯❤️",
+  "Quero assistir várias séries com você 🍿💖",
+  "Já disse que te amo hoje? 💌❤️",
+  "Sempre pode contar comigo 🤝💘",
+  "Oro por nós todos os dias 🙏❤️",
+  "Sou feliz com você 😊💖"
 ];
 
 // Lista de imagens de fundo
