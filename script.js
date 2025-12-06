@@ -58,7 +58,11 @@ const fundos = [
   "assets/bg6.jpg",
   "assets/bg7.jpg",
   "assets/bg8.jpg",
-  "assets/bg9.jpg"
+  "assets/bg9.jpg",
+  "assets/bg10.jpg",
+  "assets/bg11.jpg",
+  "assets/bg12.jpg",
+  "assets/bg13.jpg"
 ];
 
 // Limite de frases por dia
