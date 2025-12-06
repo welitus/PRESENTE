@@ -28,7 +28,24 @@ const metas = [
   "Já disse que te amo hoje? 💌❤️",
   "Sempre pode contar comigo 🤝💘",
   "Oro por nós todos os dias 🙏❤️",
-  "Sou feliz com você 😊💖"
+  "Sou feliz com você 😊💖",
+  "Ansioso pra te chamar de noiva 💍🥰",
+  "Saudades de você 💌🥺",
+  "Sempre lembro do dia que te pedi em casamento ❤️❤️❤️",
+  "JA ESCOLHEU A MUSICA QUE IREMOS APRESENTAR NO CASAMENTO? 🎶💕",
+  "Te pediria em casamento 1 milhão de vezes 💖",
+  "quero ser o melhor marido do mundo✨",
+  "Voce é minha melhor escolha!💓💓",
+  "me manda uma mensagem agora, to pensando em voce! ✨❤️",
+  "Sempre serei seu porto seguro 🌎💘",
+  "Nossa casinha chegará em breve🏠💖",
+  "Que nossa festa seja linda! ❤️",
+  "Casa cmg mesmo? kkkk💞",
+  "Agora nao da mais pra desistir kkkkk🎮💕",
+  "Animado pra nossa viagem pra pedreiras, é muito importante pra mim 🎯❤️",
+  "Amo fazer parte da sua familia! 🍿💖",
+  "Voce sempre me acalma!💌❤️",
+ 
 ];
 
 // Lista de imagens de fundo
